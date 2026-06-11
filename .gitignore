@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+_test_nih.py
+_debug_match.py
+read_excel.py
+Book1.xlsx
+.DS_Store
